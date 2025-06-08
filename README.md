@@ -1,5 +1,4 @@
 # E-commerce Data Analysis
-
 ## 📌 Project Overview
 A data analysis project that focuses on understanding customer behavior, seller performance, and payment trends using e-commerce order data.
 
@@ -16,11 +15,6 @@ The company wanted to understand how customers from different regions shop, whic
 - 99.9981% of orders were made using installment payments, showing affordability is key.
 - Top 5 sellers contributed to 40% of overall revenue.
 - Results help improve regional marketing, seller support, and payment strategies.
-
-## 📂 Files in This Repo
-- `ecommerce_analysis.sql` – SQL analysis scripts
-- `Ecommerce_EDA.ipynb` – Jupyter notebook with Python analysis
-- `README.md` – Project summary
 
 ## 🧰 Tools Used
 SQL · Python · Pandas · Matplotlib
